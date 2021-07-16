@@ -1,52 +1,47 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include statistical learning and data automation.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: MSc in Applied Statistics
+    institution: University of Ljubljana, Faculty of electrical engineering
+    year: 2021
+  - course: BSc in Financial Mathematics
+    institution: University of Ljubljana, Faculty of mathematics and physics
+    year: 2019
+email: "andrejsokolicc@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical learning
+- Statistical analysis
+- Data & Report Automation
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: NLB d.d.
+  url: https://www.nlb.si/
+role: Data analyst
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - display:
+#     header: true
+#   icon: twitter
+#   icon_pack: fab
+#   label: Follow me on Twitter
+#   link: https://twitter.com/GeorgeCushen
+# - icon: graduation-cap
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Andrej Sokolič
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a data analyst in the methodologies and reservations department of the risk sector. BlabLa
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Andrej_Sokolic_CV_ENG.pdf" "newtab" >}}resumé{{< /staticref >}}.
