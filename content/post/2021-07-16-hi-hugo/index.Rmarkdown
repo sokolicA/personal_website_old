@@ -1,5 +1,5 @@
 ---
-title: Hi Hugo
+title: Test
 author: ''
 date: '2021-07-16'
 slug: hi-hugo
@@ -16,6 +16,8 @@ image:
   preview_only: no
 projects: []
 ---
+
+TEST
 
 blogdown::new_post(title = "Hi Hugo", 
                      ext = '.Rmarkdown', 
