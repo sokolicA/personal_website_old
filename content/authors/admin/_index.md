@@ -41,7 +41,10 @@ superuser: true
 title: Andrej Sokolič
 ---
 
-I am a data analyst in the methodologies and reservations department of the risk sector. BlabLa
+I am a data analyst in the methodologies and reservations department of the risk sector. My interests include creation of statistical models to assess the
+dependencies between factors of interest and to forecast new or future data;
+creation of automated and dynamic reports that allow the end user a deeper
+understanding of the presented data.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Andrej_Sokolic_CV_ENG.pdf" "newtab" >}}resumé{{< /staticref >}}.

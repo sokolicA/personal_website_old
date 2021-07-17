@@ -1,10 +1,10 @@
 ---
-title: This week I learned...
+title: This week I...
 author: ''
 date: '2021-07-17'
 slug: TWIL
 categories: []
-tags: []
+tags: [blog, diary]
 subtitle: ''
 summary: ''
 authors: []
@@ -17,4 +17,4 @@ image:
 projects: []
 ---
 
-This week I learned
+Learned, read, did...
