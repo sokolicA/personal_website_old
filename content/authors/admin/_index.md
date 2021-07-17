@@ -1,5 +1,5 @@
 ---
-bio: My research interests include statistical learning and data automation.
+bio: My research interests include statistical learning, report automation and reproducible analysis.
 education:
   courses:
   - course: MSc in Applied Statistics
