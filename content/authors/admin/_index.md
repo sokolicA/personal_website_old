@@ -41,9 +41,8 @@ superuser: true
 title: Andrej Sokolič
 ---
 
-I am a data analyst in the methodologies and reservations department of the risk sector. My interests include creation of statistical models to assess the
-dependencies between factors of interest and to forecast new or future data;
-creation of automated and dynamic reports that allow the end user a deeper
+I am an aspiring data analyst. My interests include creation of statistical models to assess the dependencies between factors of interest and to forecast new or future data;
+creation of automated and interactive reports that allow the end user a deeper
 understanding of the presented data.
 
 

@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Statistical Learning
     tag: Statistical Learning
+  - name: Work
+    tag: Work
   - name: Other
     tag: Other
 
