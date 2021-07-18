@@ -1,7 +1,7 @@
 ---
-title: This week I...
+title: This week I ...
 author: ''
-date: '2021-07-17'
+date: '2021-07-18'
 slug: TWIL
 categories: []
 tags: [blog, diary]
@@ -17,4 +17,6 @@ image:
 projects: []
 ---
 
-Learned, read, did...
+Came back from an amazing holiday in Porto and Azores (Portugal).
+<br>
+At home I started creating my personal website. I still have a lot to learn but I atleast managed to set up some fundamentals. 
