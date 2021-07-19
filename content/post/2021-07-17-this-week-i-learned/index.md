@@ -19,4 +19,6 @@ projects: []
 
 Came back from an amazing holiday in Porto and Azores (Portugal).
 <br>
-At home I started creating my personal website. I still have a lot to learn but I atleast managed to set up some fundamentals. 
+At home I started creating my personal website. I still have a lot to learn but I atleast managed to set up some fundamentals.
+<br>
+Went to a friend's 30th birthday party... We are inevitably getting older.
