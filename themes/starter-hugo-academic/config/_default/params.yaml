@@ -20,14 +20,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: andrejsokolicc@gmail.com
-#phone: +386 31 546 825
-address:
-  street: Kajuhova 35
-  city: Izola
-  postcode: '6310'
-  country: Slovenia
-  country_code: SI
+# email: andrejsokolicc@gmail.com
+# phone: +386 31 546 825
+# address:
+#   street: Kajuhova 35
+#   city: Izola
+#   postcode: '6310'
+#   country: Slovenia
+#   country_code: SI
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'

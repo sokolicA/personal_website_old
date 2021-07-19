@@ -32,18 +32,20 @@ Fourth day was traveling day - we flew to the Azores archipelago, a group of 9 b
 The temperatures were quite similar to those in Porto, but it felt like it was hotter here. Maybe also because the wind was not as strong and cold. 
 My girlfriend had planned many activities and places to visit during our stay. We started by going to the Furnas region, known for its hot springs. SLIKA
 Afterwards we went to Poca da Dona Beija, "A mystical space of leisure and relaxation that is immersed in the exuberant Azorean nature and features geothermally heated water from an iron-rich water spring". We finished our visit of Furnas with lunch in the nearby restaurant that offered food cooked in the hot springs.
-We countinued to the north east part of the island, known for its beautiful views, but the weather quickly worsened and all we could see was fog. On the way back we stopped in sunny and windy Ribeira Grande.
+We countinued to the north east part of the island, known for its beautiful views, but the weather quickly worsened and our view was obstructed by fog. On the way back we stopped in sunny and windy Ribeira Grande where we enjoyed a cocktail on the beach.
 
 ![azores](az5.jpg)
 
-The following day we went on the west side of the island, heading towards Sete Cidades and the nearby lakes. We visited an abandoned hotel on the top of a hill, overviewing the lakes on one side and the sea on the other. But we were able to get the nicest views of the area from the Miradouro da Grota do Inferno. SLIKA
+The following day we went on the west side of the island, heading towards Sete Cidades and the nearby lakes. We visited an abandoned hotel on the top of a hill, overlooking the lakes on one side and sea on the other. Were able to get the nicest views of the area from the Miradouro da Grota do Inferno. SLIKA
 
-We ended our full day trip in a tea plantation - a rare sight in Europe. There we were able to walk around the plantation and also see the machinery that processes the leaves into tea. 
+We ended our full day trip with a visit of a tea plantation - a rare sight in Europe. We were able to walk around the plantation and also see the machinery that processes the leaves into tea. 
 
-The next day was the last day we rented the car and we decided to go to Vila Franca do Campo and visit the nearby island by boat. The weather was not on our side so we didn't stay for long and instead opted to go back to Furnas. This time we went to Parque Terra Nostra, which includes a beautiful garden and also hot thermal pools. After a nice walk around the park we went to a natural jacuzzi. 
+On our last day with the car and we decided to go to Vila Franca do Campo and visit the nearby island by boat. Due to bad weather we didn't stay for long and instead opted to go back to Furnas where we still had to visit Parque Terra Nostra, which includes a beautiful garden and hot thermal pools. After a nice walk around the park we went took some time to relax in the thermal pools. 
+After leaving the park we tried some local cheeses from the nearby Queijaria Furnense. SLIKA?
 
-![TerraNostra](az1.jpg)
+![TerraNostra1](az3.jpg)
 
+![TerraNostra2](az1.jpg)
 
-![azores](az3.jpg)
-
+From the food point of view we really liked their food. We tried to try as much as possible 
+We also liked the pineapple plantation in Ponta Delgada. After taking a tour around the greenhouses and learning the process of farming pineapple (growing one takes longer than 2 years) we also tried pineapple liquor and jam.
