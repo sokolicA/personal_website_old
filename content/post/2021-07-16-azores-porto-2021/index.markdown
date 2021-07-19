@@ -17,16 +17,6 @@ image:
 projects: []
 ---
 
-<style type="text/css">
-.halfw {
-  display: block;
-  margin: 0 0 1rem;
-  border-radius: 5px;
-  max-width: 50%;
-}
-</style>
-
-
 After almost 2 years of being at home, we (me and my girlfriend) decided it was time to explore new places. Last time we went abroad we also went to Portugal. We visited Lisbon and Lagos (Algarve). We liked the people and the chill vibe in Portugal so we agreed on going back - this time to Porto and the Sao Miguel island in the Azores, a volcanic archipelago.
 <br>
 During these uncertain times there is quite a bit more frustration with all the rules, guidelines and the documentation (tests, locator forms,...) you have to bring to lessen the chances of ruining the holidays by being stopped from traveling or being sent to quarantine. Overall the preparation for the holidays was not as we were used to but in the end we managed to sort everything out.
@@ -34,7 +24,7 @@ During these uncertain times there is quite a bit more frustration with all the 
 We spent our first three days in windy and sometimes rainy Porto. The weather wasn't as expected but on the bright side the lack of heat made it possible to walk around the city the whole day. The second day we decided to rent bikes and ride on the shore of Gaia, the city on the south side of the river Douro. We followed a long sandy beach until Capela do Senhor da Pedra, which was our final destination. SLIKA
 On our way home we stopped in the marina to take a boat ride on the Douro river. 
 
-The next day started with us going to a laboratory, where we had to take a PCR test: a negative PCR test is a condition to enter the Azores. Afterwards we went for a brunch and enjoyed wandering around the city. We also took a ride with an old fashioned tram. Slika?
+The next day started with us going to a laboratory to take a test and afterwards we went for a brunch and enjoyed wandering around the city. We also took a ride with an old fashioned tram. Slika?
 
 Fourth day was traveling day - we flew to the Azores archipelago, a group of 9 beautiful islands located (almost) in the middle of the Atlantic ocean - around 1500 kilometers west of Porto. 
 
