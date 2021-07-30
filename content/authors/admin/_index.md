@@ -46,4 +46,4 @@ creation of automated and interactive reports that allow the end user a deeper
 understanding of the presented data.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Andrej_Sokolic_CV_ENG.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/sokolicA/datadrivencv/raw/master/02_Report/cv_en.pdf" "newtab" >}}resumé{{< /staticref >}}.
