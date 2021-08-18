@@ -17,7 +17,7 @@ interests:
 organizations:
 - name: NLB d.d.
   url: https://www.nlb.si/
-role: Data analyst
+role: Data scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,7 +41,7 @@ superuser: true
 title: Andrej Sokolič
 ---
 
-I am an aspiring data analyst. My interests include creation of statistical models to assess the dependencies between factors of interest and to forecast new or future data;
+I am an aspiring data scientist. My interests include creation of statistical models to assess the dependencies between factors of interest and to forecast new or future data;
 creation of automated and interactive reports that allow the end user a deeper
 understanding of the presented data.
 
