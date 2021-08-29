@@ -2,8 +2,12 @@
 title: 'This week I ... #3'
 author: ''
 date: '2021-08-09'
+slug: this-week-i-3
 categories: []
-tags: [blog, diary, twil]
+tags: 
+  - blog
+  - diary
+  - twil
 subtitle: ''
 summary: ''
 authors: []
