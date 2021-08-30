@@ -55,7 +55,7 @@ Overall it was a nice active holiday and we managed to do everything we had plan
 
 
 
-I didn't mention that there were animals in the camp that you could feed. My girlfriend loves animals so this was something special to do for her.
+I didn't mention that there were animals in the camp that you could feed. My girlfriend loves animals and you could tell she enjoyed feeding and petting them.
 
 ![](images/zivali2.jpg)
 ![](images/zivali1.jpg)
