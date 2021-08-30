@@ -1,7 +1,8 @@
 ---
-title: Glamping 2021
+title: "Glamping 2021"
 author: ''
 date: '2021-08-29'
+output: html_document
 slug: glamping-2021
 categories: []
 tags:
@@ -22,17 +23,59 @@ image:
 projects: []
 ---
 
+
+![Eco Resort](images/ecoresort.jpg)
+
 Glamping or glamorous camping is a modern form of camping that substitutes tents with wooden cabins and can include bars, restaurants, SPAs and other resort style services. It basically is a more comfortable way of camping as you don't have to worry about weather and other things that can go wrong while camping in a tent. I do like old fashioned camping and I do not think glamping offers the same experience but you still get to see some aspects of it. 
 
-The last few years I went camping or glamping with my girlfriend once a year. Last year we went camping near Kolpa river, in Lovšin Estate, and this year we decided to go glamping in Eco Resort, near Velika Planina. And I'm glad we opted for glamping as the weather forecast was not on our side. 
+
+The last few years I went camping or glamping with my girlfriend once a year. Last year we went camping near Kolpa river, in Lovšin Estate, and this year we decided to go glamping in Eco Resort, near Velika Planina. And I'm glad we chose glamping as the weather forecast was not on our side. 
+
+![Gojška Planina](images/gp.jpg)
 
 To our surprise it was still sunny when we arrived there and we decided to go to Velika Planina right away. The weather was getting worse while driving there but we still wanted to try and get there before the rain. Light rain started not long after we started the hike but we continued and got to Gojška planina that was covered in fog. We were the only ones up there apart from a few shepherds and their cows. We watched them as they tried to gather the cows before the storm and had a little chat. We left towards Mala planina but got caught by strong rain on the way there. We found shelter and waited for it to slow atleast a little. It was already getting late and cold and we were not geared up for rain so we decided to go back to the car and perhaps leave Velika planina for another day. 
 Back in the camp/resort we treated ourselves with some delicious food. I had slowly cooked pork ribs with potatoes and coleslaw salad and my girlfriend had pasta with salmon in cream sauce. We were satisfied with everything - the main dishes and grilled mountain cheese as appertizer. 
 
+![Logarska dolina](images/logarska.jpg)
+
 We drove to Logarska dolina, a valley in the Alps, the next day. We drove till the end of the valley and had a short walk to Rinka waterfall which is very tall and you can stand very close to it. There's also a building called Eagle's Nest just by the waterfall. It really looks like a nest in the wall. On the way back we stopped in Luče and had a Slovenian dish called žlinkrofi, which we never tried before.
+
+<div class = "imageContainer">
+
+![Rinka Waterfall](images/rinka.jpg)
+</div>
 
 In the afternoon we sweated in the sauna, which we booked for ourselves only, and then headed to the restaurant for another excellent dinner. There was a bikers event going on meanwhile and we listened to the band that was playing mostly Slovenian songs.
 
 On the last day we gave another try to Velika Planina. This time we parked closer to the top and we had only about 1 hour of walking to get there. You can see many cows and you can buy dairy and other products in many of the wooden houses that are spread on the top of the mountain. We walked around for a little and then headed to a nearby lodge called Domžalski dom, where we replenished our energies with stew. Shortly after finishing our meal the weather started to turn bad and we were surrounded by fog. We quickly left and made it to the car before it started to rain. 
 
+![Velika Planina](images/vp.jpg)
+
 Overall it was a nice active holiday and we managed to do everything we had planned, even though the weather was not on our side. 
+
+
+
+I didn't mention that there were animals in the camp that you could feed. My girlfriend loves animals so this was something special to do for her.
+
+![](images/zivali2.jpg)
+![](images/zivali1.jpg)
+
+
+```{css, echo = FALSE}
+.imageContainer {
+  width: 50% !important;
+  height: 50% !important;
+  float:left;
+  position:relative;
+  margin-right: 20px;
+}
+
+.floatImg {
+  width: 50%;
+  height: 2 5%;
+  float: right;
+  position:relative;
+  margin-left: 20px;
+}
+```
+

@@ -17,24 +17,6 @@ image:
 projects: []
 ---
 
-<style type="text/css">
-.imageContainer {
-  width: 50% !important;
-  height: 50% !important;
-  float:left;
-  position:relative;
-  margin-right: 20px;
-}
-
-.floatImg {
-  width: 50%;
-  height: 2 5%;
-  float: right;
-  position:relative;
-  margin-left: 20px;
-}
-</style>
-
 
 After almost 2 years of being at home, we (me and my girlfriend) decided it was time to explore new places. Last time we went abroad we also went to Portugal. We visited Lisbon and Lagos (Algarve). We liked the people and the chill vibe in Portugal so we agreed on going back - this time to Porto and the Sao Miguel island in the Azores, a volcanic archipelago.
 <br>
@@ -95,3 +77,5 @@ After all the worrying about being even able to travel and the rapidly changing 
 
 
 We are already thinking about our next destination... 
+
+
