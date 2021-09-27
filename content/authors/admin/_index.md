@@ -1,5 +1,5 @@
 ---
-bio: My research interests include statistical learning, report automation and reproducible analysis.
+bio: My research interests include statistical learning, reproducible analysis and creation of data products such as automated interactive reports.
 education:
   courses:
   - course: MSc in Applied Statistics
@@ -13,7 +13,7 @@ highlight_name: false
 interests:
 - Statistical learning
 - Statistical analysis
-- Data & Report Automation
+- Data products
 organizations:
 - name: NLB d.d.
   url: https://www.nlb.si/
