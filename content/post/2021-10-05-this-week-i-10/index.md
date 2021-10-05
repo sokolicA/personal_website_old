@@ -20,7 +20,7 @@ image:
 projects: []
 ---
 
-This week I wrote my 10th post of this type. I believe I started in July and only missed one week and I can't find an excuse why. I've started to enjoy writing this weekly recap and it's becoming a Sunday evening / Monday evening ritual (To be honest it's Tuesday morning as I'm writing this one so I guess that's an option). I'll probably never read it in the future but am reminding myself of the things that happened and perhaps persuaded me to invest my time in a more meaningful way.
+Sees the 10th post of this type. I believe I started in July and only missed one week and I can't find an excuse why. I've started to enjoy writing this weekly recap and it's becoming a Sunday evening / Monday evening ritual (To be honest it's Tuesday morning as I'm writing this one so I guess that's an option). I'll probably never read it in the future but am reminding myself of the things that happened and perhaps persuaded me to invest my time in a more meaningful way.
 
 There was a lot going on this week. This week marked the end of the student era and the start of my professional career. I got a position as a Data Scientist in one of the biggest banks in the region. I've been receiving scholarship from them during my postgraduate programme of Applied Statistics and together with the job (as a student) it has helped me a lot in expanding my knowledge and allowed me to better explore and find areas of my interest. 
 
