@@ -38,7 +38,7 @@ Some quick and easy to digest statistics:
 + The winner of the 5 K run would've placed 8th in the 10 K run, again assuming the same pace;
 + For women though, the winner of the 5 K ran just a bit slower pace and would've placed 2nd in the 10 K run.
 
-On Sunday we invited my girfriend's parents for a barbecue. It's something we do every end of summer season. It started to rain before the barbecue but then it soon stopped and it was sunny most of the time. We talked, ate (a lot) and drank some wine.
+On Sunday I went cycling with my girlfriend - we'd been contemplating to go cycling for a while now. We made a short windy tour to Koper. Afterwards we invited my girfriend's parents for a barbecue. It's something we do every end of summer season. It started to rain before the barbecue but then it soon stopped and it was sunny most of the time. We talked, ate (a lot) and drank some wine.
 
 tl;dr The week was great and full of new experiences!
 
