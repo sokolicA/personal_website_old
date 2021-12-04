@@ -1,5 +1,5 @@
 ---
-bio: My research interests include statistical learning, reproducible analysis and creation of data products such as automated interactive reports.
+bio: My research interests include statistical learning, reproducible analysis and creation of data products such as dashboards and automated interactive reports.
 education:
   courses:
   - course: MSc in Applied Statistics
