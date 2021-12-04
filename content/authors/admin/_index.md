@@ -41,9 +41,10 @@ superuser: true
 title: Andrej Sokolič
 ---
 
-I am an aspiring data scientist. My interests include creation of statistical models to assess the dependencies between factors of interest and to forecast new or future data;
-creation of automated and interactive reports that allow the end user a deeper
+Aspiring data scientist with broad range of interest that includes creating statistical models to assess the dependencies between factors of interest and to forecast new or future data;
+creating data products such as automated and dynamic reports that allow the end user a deeper
 understanding of the presented data.
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/sokolicA/datadrivencv/raw/master/02_Report/cv_en.pdf" "newtab" >}}resumé{{< /staticref >}}.
