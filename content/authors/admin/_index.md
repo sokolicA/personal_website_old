@@ -4,7 +4,7 @@ education:
   courses:
   - course: MSc in Applied Statistics
     institution: University of Ljubljana, Faculty of electrical engineering
-    year: 2021
+    year: 2022
   - course: BSc in Financial Mathematics
     institution: University of Ljubljana, Faculty of mathematics and physics
     year: 2019
@@ -12,12 +12,12 @@ email: "andrejsokolicc@gmail.com"
 highlight_name: false
 interests:
 - Statistical learning
-- Statistical analysis
-- Data products
+- Creation of data products
+- Programming
 organizations:
 - name: NLB d.d.
   url: https://www.nlb.si/
-role: Data scientist
+role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,10 +41,9 @@ superuser: true
 title: Andrej Sokolič
 ---
 
-Aspiring data scientist with broad range of interest that includes creating statistical models to assess the dependencies between factors of interest and to forecast new or future data;
-creating data products such as automated and dynamic reports that allow the end user a deeper
-understanding of the presented data.
+Aspiring data scientist with a wide range of interests that include using statistical models to assess the associations between attributes and to forecast new or future data;
+creating data products such as automated and interactive reports that allow the end user a deeper understanding of the collected data.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/sokolicA/datadrivencv/raw/master/02_Report/cv_en.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/sokolicA/CV/raw/master/02_Report/cv_en.pdf" "newtab" >}}resumé{{< /staticref >}}.
