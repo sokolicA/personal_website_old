@@ -39,10 +39,12 @@ url_video: ""
 slides: ""
 ---
 
-My task is to create an automated workflow to create monthly and quarterly reports that will be sent to the end users.
-The process includes:
- - Merging data from multiple tables in the datawarehouse.
+My task is to create automated workflows that create reports, which are sent to the end users at regularly occurring intervals.
+
+The standard workflow encompasses:
+
+ - Merging data from multiple tables in the data warehouse.
  - Cleaning and preparing data.
- - Making summaries, interactive tables and plots.
- - Presenting data in an interactive HTML document.
- - Automatically sending the reports to selected addresses.
+ - Calculating summaries, creating interactive tables and plots.
+ - Assembling data in an interactive HTML document (the end product).
+ - Automatically sending the reports to selected e-mail addresses.
