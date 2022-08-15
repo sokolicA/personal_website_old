@@ -13,7 +13,6 @@ image:
 slides: example
 summary: Make something.
 tags:
-- Statistical Learning
 title: X Data analysis
 url_code: ""
 url_pdf: ""
