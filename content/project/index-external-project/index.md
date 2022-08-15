@@ -4,10 +4,10 @@ external_link: https://sokolica.shinyapps.io/PrimerjavaIndeksov/
 image:
   #caption: Photo by AS
   focal_point: Smart
-summary: My first Shiny app. Comparison of various indices data provided by SURS.
+summary: "My first Shiny app. Comparison of various indices data provided by SURS."
 tags: 
- - Index
- - Other
+ - R
+ - shiny
 title: Index comparison
 ---
 

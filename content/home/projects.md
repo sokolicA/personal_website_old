@@ -27,12 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Statistical Learning
-    tag: Statistical Learning
+  - name: R
+    tag: R, statistical learning, programming
   - name: Work
-    tag: Work
+    tag: work
   - name: Other
-    tag: Other
+    tag: other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

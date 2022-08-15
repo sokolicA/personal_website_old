@@ -1,23 +1,17 @@
 ---
 title: atools - a personal R package
-summary: "Automating monthly and quarterly reports."
-tags: 
- - Work
+summary: "My own R package"
+tags: [work]
 author: 'Andrej Sokolič'
 date: '2022-08-15'
-slug: atools
-categories: []
-tags: []
-subtitle: ''
-summary: ''
-authors: []
+tags: [R]
+authors: [Andrej Sokolič]
 lastmod: '2022-08-15T16:24:57+02:00'
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
 ---
 
 With my increasing doing of repetitive tasks I found the need to create my own R package [atools](https://github.com/sokolicA/atools) that includes reusable functions from different projects that I completed.

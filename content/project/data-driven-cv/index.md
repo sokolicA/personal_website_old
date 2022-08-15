@@ -1,10 +1,8 @@
 ---
 title: Data driven CV
+summary: "A CV framework"
 date: '2021-07-30'
-slug: ddcv
-categories: []
-tags: []
-subtitle: ''
+tags: [R]
 summary: 'Automated CV'
 authors: []
 lastmod: '2021-07-30T14:17:36+02:00'
@@ -13,7 +11,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
 ---
 
 The goal of this project is to have a simple, easily accessible and updatable CV! 

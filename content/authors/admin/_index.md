@@ -46,4 +46,4 @@ creating data products such as automated and interactive reports that allow the 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/sokolicA/CV/raw/master/02_Report/cv_en.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/sokolicA/CV/raw/master/02_Report/andrej_sokolic_cv_en.pdf" "newtab" >}}resumé{{< /staticref >}}.
