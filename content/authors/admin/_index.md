@@ -3,10 +3,10 @@ bio: My research interests include statistical learning, reproducible analysis a
 education:
   courses:
   - course: MSc in Applied Statistics
-    institution: University of Ljubljana, Faculty of electrical engineering
+    institution: University of Ljubljana, Faculty of Electrical Engineering
     year: 2022
   - course: BSc in Financial Mathematics
-    institution: University of Ljubljana, Faculty of mathematics and physics
+    institution: University of Ljubljana, Faculty of Mathematics and Physics
     year: 2019
 email: "andrejsokolicc@gmail.com"
 highlight_name: false
