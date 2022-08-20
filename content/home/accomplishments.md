@@ -6,13 +6,14 @@ widget: accomplishments
 # This file represents a page section.
 headless: true
 
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 70
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+# title: 'Accomplish&shy;ments'
+title: "Learning"
 subtitle:
 
 # Date format
@@ -25,29 +26,49 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: https://www.udemy.com/certificate/UC-4ddbd84a-f0f9-4618-8921-c4377cb65639
+  date_end: "2022-06-20"
+  date_start: "2022-05-03"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Udemy
+  organization_url: https://www.udemy.com
+  title: Microsoft Excel - Excel from Beginner to Advanced
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  
+- certificate_url: https://www.udemy.com/certificate/UC-91d6eb52-717a-4f98-a3f8-ab8565fc80bc 
+  date_end: "2022-02-20"
+  date_start: "2022-02-25"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Udemy
+  organization_url: https://www.udemy.com
+  title: Complete IBM Cognos Analytics 11.2
+  url: ""
+  
+- certificate_url: ""
+  date_end: ""
+  date_start: "2022-08-08"
+  description: ""
+  organization: Udemy
+  organization_url: https://www.udemy.com
+  title: The Complete JavaScript Course
+  url: ""
+  
+- certificate_url: ""
+  date_end: ""
+  date_start: "2022-08-18"
+  description: ""
+  organization: Udemy
+  organization_url: https://www.udemy.com
+  title: Microsoft Access Complete Beginner to Advanced
+  url: ""
+  
+- certificate_url: ""
+  date_end: ""
+  date_start: "2022-09-15"
+  description: ""
+  organization: Udemy
+  organization_url: https://www.udemy.com
+  title: Beginning C++ Programming From Beginner to Beyond
   url: ""
 
 design:
