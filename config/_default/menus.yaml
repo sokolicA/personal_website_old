@@ -13,6 +13,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
+  - name: Learning
+    url: '#learning'
+    weight: 35
   - name: Contact
     url: '#contact'
     weight: 40
